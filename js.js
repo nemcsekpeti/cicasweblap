@@ -14,7 +14,22 @@ kepek = [
         cim: "03-es kép",
         eleresiut:"./kepek/03.jpg",
         leírás:"Ez a harmadik cicás kép",
-    }
+    },
+    {
+        cim: "04-es kép",
+        eleresiut:"./kepek/04.jpg",
+        leírás:"Ez a negyedik cicás kép",
+    },
+    {
+        cim: "05-es kép",
+        eleresiut:"./kepek/05.jpg",
+        leírás:"Ez a ötödik cicás kép",
+    },
+    {
+        cim: "06-es kép",
+        eleresiut:"./kepek/06.jpg",
+        leírás:"Ez a hatodik cicás kép",
+    },
 ]
 function ID(elem){
     return document.getElementById(elem);
