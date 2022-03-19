@@ -58,6 +58,14 @@ nav a:hover{
     text-decoration: none;
     color:black
 }
+
+.divekformazasa
+{
+    border: 2px solid azure;
+    padding: 10px;
+    background-color: grey;
+}
+
 @media screen and (max-width: 400px){ /*400px alatt milyen legyen a kinézet.*/
 	main{
     grid-template-columns: 1fr;
